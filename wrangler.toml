@@ -1,0 +1,5 @@
+name = "ok"
+compatibility_date = "2025-04-08"
+
+[site]
+bucket = "./dist"   # Make sure this matches the folder you’re using
